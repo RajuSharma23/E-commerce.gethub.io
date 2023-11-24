@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+}
+.bg-color{ 
+    /* background-color:pink; */
+    background-image: url(image/banner-4.png);
+    height: 600px;
+   
+
+} 
+.bg-image{
+   background-image: url("image/page_under_maintenance.png");
+   margin-top: 300px;
+width: 339px;
+height: 327px;
+margin-left: 600px; 
+}
